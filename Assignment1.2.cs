@@ -1,6 +1,5 @@
 ﻿using System;
 
-
     class Assignment1_2
     {
         static void Main(string[] args)
